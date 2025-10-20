@@ -84,4 +84,17 @@
 - **density**: 90.
 - **south-wind-speed**: 10.
 
+<table>
+<thead>
+<tr><th>Ймовірність поширення</th><th>Відсоток згорівшого лісу</th></tr>
+</thead>
+<tbody>
+<tr><td>30</td><td>0.9</td></tr>
+<tr><td>40</td><td>1.6</td></tr>
+<tr><td>50</td><td>8</td></tr>
+<tr><td>60</td><td>87</td></tr>
+<tr><td>70</td><td>97.4</td></tr>
+</tbody>
+</table>
+
 
