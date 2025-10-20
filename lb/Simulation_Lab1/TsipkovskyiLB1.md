@@ -4,7 +4,7 @@
 </h1>
 <br>
 
-### 5. [Fire Simple Extension 2](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/IABM%20Textbook/chapter%203/Fire%20Extensions/Fire%20Simple%20Extension%202.nlogo). Проста модель поширення вогню у лісі, з урахуванням щільності дерев та напрямку вітру.
+### Варіант 5. [Fire Simple Extension 2](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/IABM%20Textbook/chapter%203/Fire%20Extensions/Fire%20Simple%20Extension%202.nlogo). Проста модель поширення вогню у лісі, з урахуванням щільності дерев та напрямку вітру.
 
 ### Вербальний опис моделі:
 Симуляція поширення пожежі в лісі. Модель показує, що ймовірність того, що вогонь досягне правого краю лісу, критично залежить від щільності дерев. Це приклад загальної особливості складних систем — наявності нелінійного порогу або критичного параметра. Ця модель розширює модель Fire Simple Extension 1, додаючи вітер.
