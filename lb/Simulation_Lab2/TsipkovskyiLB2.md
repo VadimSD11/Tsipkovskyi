@@ -100,6 +100,8 @@ if direction = 0 [
 </tbody>
 </table>
 
+Поєднання великої кількості пожежників і слабкого вітру забезпечує мінімальні втрати лісу, тоді як сильний вітер навіть при значних зусиллях пожежників знижує ефективність гасіння.
+
 <img width="626" height="370" alt="image" src="https://github.com/user-attachments/assets/b011a4f3-6c3d-4baf-b9c4-4e0b8921ac86" />
 <img width="626" height="370" alt="image" src="https://github.com/user-attachments/assets/3fe83a61-bb7d-4024-b0a1-d94b6f5179cc" />
 <img width="626" height="370" alt="image" src="https://github.com/user-attachments/assets/fd31318e-dd5b-4bf9-89a6-df94d319ba22" />
