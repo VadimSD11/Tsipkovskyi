@@ -100,3 +100,6 @@ if direction = 0 [
 </tbody>
 </table>
 
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/b011a4f3-6c3d-4baf-b9c4-4e0b8921ac86" />
+
+
