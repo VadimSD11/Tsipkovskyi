@@ -76,4 +76,27 @@ if direction = 0 [
 
 ## Обчислювальні експерименти
 **Вплив кількості пожежників та сили вітру на ефективність гасіння**
+Досліджується залежність відсотка згорілого лісу від сили кількості пожежників та режиму вітру.
+- **probability of spread**: 57.
+- **density**: 82.
+- **south-wind-speed**: 25.
+- **west-wind-speed**: 25.
+
+<table>
+<thead>
+<tr><th>Режим вітру</th><th>Кількст пожежників</th><th>Відсок згорівшого лісу</th></tr>
+</thead>
+<tbody>
+<tr><td>-1</td>td>0</td><td>15,7</td></tr>
+<tr><td>-1</td><td>500</td><td>13,8 </td></tr>
+<tr><td>-1</td><td>1000</td><td>12,7 </td></tr>
+<tr><td>0</td><td>0</td><td>68,9 </td></tr>
+<tr><td>0</td><td>500</td><td>61.5</td></tr>
+<tr><td>0</td><td>1000</td><td>57</td></tr>
+<tr><td>1</td><td>0</td><td>86,9</td></tr>
+<tr><td>1</td><td>500</td><td>80</td></tr>
+<tr><td>1</td><td>1000</td><td>78</td></tr>
+
+</tbody>
+</table>
 
