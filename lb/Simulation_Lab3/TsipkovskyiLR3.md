@@ -29,3 +29,8 @@
 ### Налаштування середовища BehaviorSearch:
 
 **Обрана модель**:
+<pre>
+  C:\NetLogo 7.0.2\models\IABM Textbook\chapter 3\Fire Extensions\Fire Simple Extension 2.nlogox
+</pre>
+**Параметри моделі** (вкладка Model):  
+*Параметри та їх модливі діапазони були **автоматично** вилучені середовищем BehaviorSearch із вибраної імітаційної моделі, для цього є кнопка «Завантажити діапазони параметрів
