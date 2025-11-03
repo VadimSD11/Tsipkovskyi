@@ -58,6 +58,15 @@
 
 <img width="1388" height="776" alt="image" src="https://github.com/user-attachments/assets/e4304606-8661-45d2-b193-0c04ae957ebd" />
 
+***Вкладка Search Objective***
+
+Мета пошуку — максимізувати відсоток згорілих дерев.
+Тому у полі Goal обрано:
+<pre> Maximize Fitness </pre>
+Значення фітнесу (цільової функції) усереднюється за всі кроки моделі, щоб уникнути впливу випадковості:
+<pre> Collected measure: MEAN_ACROSS_STEPS </pre>
+Для підвищення достовірності кожен експеримент повторюється 10 разів, а результати усереднюються.
+Загальний вигляд вкладки “Search Objective”:
 <img width="1403" height="782" alt="image" src="https://github.com/user-attachments/assets/cb2ded34-ed05-4502-bd70-2cec425532c0" />
 
 <img width="1381" height="778" alt="image" src="https://github.com/user-attachments/assets/f8307ce7-d2f6-458b-8226-1e319653ebe2" />
