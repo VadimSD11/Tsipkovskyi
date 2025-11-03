@@ -69,6 +69,13 @@
 Загальний вигляд вкладки “Search Objective”:
 <img width="1403" height="782" alt="image" src="https://github.com/user-attachments/assets/cb2ded34-ed05-4502-bd70-2cec425532c0" />
 
+***Вкладка Search Algorithm***
+Було використано два алгоритми оптимізації:
+RandomSearch — випадковий пошук, для швидкої перевірки роботи.
+StandardGA — простий генетичний алгоритм.
+Для StandardGA були використані такі параметри:
+<pre> Population size: 20 Crossover rate: 0.9 Mutation rate: 0.05 Evaluation limit: 100 </pre>
+Загальний вигляд вкладки “Search Algorithm”:
 <img width="1381" height="778" alt="image" src="https://github.com/user-attachments/assets/f8307ce7-d2f6-458b-8226-1e319653ebe2" />
 
 <img width="897" height="523" alt="image" src="https://github.com/user-attachments/assets/c87b4f73-f8df-49f3-96c6-3b2c7df03d5e" />
