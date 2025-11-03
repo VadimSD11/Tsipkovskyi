@@ -34,3 +34,33 @@
 </pre>
 **Параметри моделі** (вкладка Model):  
 *Параметри та їх модливі діапазони були **автоматично** вилучені середовищем BehaviorSearch із вибраної імітаційної моделі, для цього є кнопка «Завантажити діапазони параметрів
+<pre>
+["density" [0 1 100]]
+["probability-of-spread" [0 1 100]]
+["south-wind-speed" [-25 1 25]]
+["west-wind-speed" [-25 1 25]]
+</pre>
+Визначено цільову функцію (Measure), яка розраховує відсоток згорілих дерев:
+
+<pre> (count patches with [pcolor != green]) / count patches * 100 </pre>
+
+Ця формула обчислює частку всіх клітинок, що змінили колір (зелені → червоні або чорні).
+
+Зупинка симуляції відбувається, коли у моделі більше немає червоних клітинок:
+
+<pre> Stop if: all? patches [pcolor != red] </pre>
+
+Обмеження на кількість кроків симуляції:
+
+<pre> Step limit: 300 </pre>
+
+Загальний вигляд вкладки “Model”:
+
+<img width="1388" height="776" alt="image" src="https://github.com/user-attachments/assets/e4304606-8661-45d2-b193-0c04ae957ebd" />
+
+<img width="1403" height="782" alt="image" src="https://github.com/user-attachments/assets/cb2ded34-ed05-4502-bd70-2cec425532c0" />
+
+<img width="1381" height="778" alt="image" src="https://github.com/user-attachments/assets/f8307ce7-d2f6-458b-8226-1e319653ebe2" />
+
+<img width="897" height="523" alt="image" src="https://github.com/user-attachments/assets/c87b4f73-f8df-49f3-96c6-3b2c7df03d5e" />
+<img width="1367" height="798" alt="image" src="https://github.com/user-attachments/assets/89a9cc42-757c-4241-8346-aef271835295" />
