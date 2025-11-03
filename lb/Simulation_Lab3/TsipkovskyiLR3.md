@@ -78,6 +78,10 @@ StandardGA — простий генетичний алгоритм.
 <pre> Population size: 20 Crossover rate: 0.9 Mutation rate: 0.05 Evaluation limit: 100 </pre>
 Загальний вигляд вкладки “Search Algorithm”:
 <img width="1381" height="778" alt="image" src="https://github.com/user-attachments/assets/f8307ce7-d2f6-458b-8226-1e319653ebe2" />
-
+***Результати використання BehaviorSearch***
+Приклад діалогового вікна запуску:
 <img width="897" height="523" alt="image" src="https://github.com/user-attachments/assets/c87b4f73-f8df-49f3-96c6-3b2c7df03d5e" />
+Результати оптимізації за допомогою генетичного алгоритму (StandardGA):
 <img width="1367" height="798" alt="image" src="https://github.com/user-attachments/assets/89a9cc42-757c-4241-8346-aef271835295" />
+Результати оптимізації за допомогою RandomSearch:
+<img width="1092" height="733" alt="image" src="https://github.com/user-attachments/assets/049cfe14-d21b-4ba3-b08e-d0b3006f82df" />
